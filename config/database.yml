@@ -11,8 +11,8 @@ development:
   reconnect: false
   database: periwinkle1_development
   pool: 5
-  username: root
-  password:
+  username: periwinkle1 
+  password: 123
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
